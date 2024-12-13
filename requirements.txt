@@ -1,0 +1,13 @@
+beautifulsoup4
+numpy
+pandas
+protobuf
+Requests
+rtbhouse_sdk
+simplejson
+facebook_business
+google-cloud-bigquery
+google-cloud-storage
+python-telegram-bot
+functions-framework
+google-analytics-data
